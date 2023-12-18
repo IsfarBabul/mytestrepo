@@ -8,7 +8,7 @@ public class Main {
         if (height < 6.0) {
             System.out.println("Sorry, not interested you have to be 6 feet.");
         } else {
-            System.out.println("W Riz.");
+            System.out.println("W *Rizz.");
         }
     }
 }
