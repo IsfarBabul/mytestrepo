@@ -6,7 +6,7 @@ public class Main {
         System.out.println("Fun fact: the mitochondria is the powerhouse of the cell.");
         double height = 6.0;
         if (height < 6.0) {
-            System.out.println("Sorry, not interested you have to be 6 feet.");
+            System.out.println("Sorry, not interested you're not 6 feet.");
         } else {
             System.out.println("W Riz.");
         }
