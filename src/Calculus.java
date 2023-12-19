@@ -20,4 +20,8 @@ public class Calculus {
     public int addition() {
         return 1 + 1;
     }
+
+    public int multiplication() {
+        return 69 * 420;
+    }
 }
