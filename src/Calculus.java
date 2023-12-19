@@ -16,4 +16,8 @@ public class Calculus {
         polarCoordinateX = 0;
         polarCoordinateY = 0;
     }
+
+    public int addition() {
+        return 1 + 1;
+    }
 }
